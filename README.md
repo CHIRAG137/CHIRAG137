@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CHIRAG137
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Open Source Contributions, Web Development and App Development
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me
 - Mail id: chiraggoel138@gmail.com
 
