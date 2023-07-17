@@ -3,13 +3,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=CHIRAG137&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Health Sector Digitalization Software**
+- 🔭 I’m currently working on **Recommendation Systems**
 
-- 🌱 I’m currently learning **Advanced Web Development**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on **tech projects related to Health Sector**
+- 👯 I’m looking to collaborate on **tech projects related to Health Sector and Recommendation Systems**
 
-- 💬 Ask me about **mongoDB, Node, express, react and UI/UX**
+- 💬 Ask me about **Flutter, Recommendation Systems, Graph Neural Networks, NLP**
 
 - 📫 How to reach me **chiragfullstack.iiitr@gmail.com**
 
