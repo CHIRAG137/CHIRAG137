@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **tech projects related to Health Sector and Recommendation Systems**
 
-- 💬 Ask me about **Flutter, Recommendation Systems, Graph Neural Networks, NLP**
+- 💬 Ask me about **Flutter, Recommendation Systems, Graph Neural Networks**
 
 - 📫 How to reach me **chiragfullstack.iiitr@gmail.com**
 
