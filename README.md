@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Recommendation Systems**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligencee**
 
 - 👯 I’m looking to collaborate on **tech projects related to Health Sector and Recommendation Systems**
 
