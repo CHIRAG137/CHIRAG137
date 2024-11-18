@@ -1,13 +1,11 @@
 <h1 align="center">Holla 👋, I'm <strong>Chirag Goel</strong></h1>
-<h3 align="center">A MERN Stack Developer by passion🧑‍💻 & UI/UX Designer by heart❤️</h3>
+<h3 align="center">Loves building cool products</h3>
 
 [![](https://visitcount.itsvg.in/api?id=CHIRAG137&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Recommendation Systems**
+- 🔭 I’m currently working on how to take **Recommendation Systems** to new heights
 
-- 🌱 I’m currently learning **Artificial Intelligencee**
-
-- 👯 I’m looking to collaborate on **tech projects related to Health Sector and Recommendation Systems**
+- 👯 I’m looking to collaborate on **tech projects related to Recommendation Systems**
 
 - 💬 Ask me about **Flutter, Recommendation Systems, Graph Neural Networks**
 
