@@ -1,5 +1,5 @@
 <h1 align="center">Holla 👋, I'm <strong>Chirag Goel</strong></h1>
-<h3 align="center">Loves building cool products</h3>
+<h3 align="center">A Passionate Developer Dedicated to Building Cool Products</h3>
 
 [![](https://visitcount.itsvg.in/api?id=CHIRAG137&icon=0&color=0)](https://visitcount.itsvg.in)
 
