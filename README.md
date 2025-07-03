@@ -1,20 +1,102 @@
-<h1 align="center">Holla 👋, I'm <strong>Chirag Goel</strong></h1>
-<h3 align="center">A Passionate Developer Dedicated to Building Cool Products</h3>
+<h1 align="center">Hey 👋 I'm <strong>Chirag Goel</strong></h1>
+<h3 align="center">🚀 Data Scientist | ML Researcher | Backend | Building Scalable AI Products</h3>
 
-[![](https://visitcount.itsvg.in/api?id=CHIRAG137&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=CHIRAG137&icon=0&color=0" alt="visit count"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on how to take **Recommendation Systems** to new heights
+---
 
-- 👯 I’m looking to collaborate on **tech projects related to Recommendation Systems**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **Flutter, Recommendation Systems, Graph Neural Networks**
+- 🔬 Passionate about solving real-world problems with **Machine Learning**, **Graph Neural Networks**, and **Backend Engineering**  
+- 🔧 Currently building scalable tools at **ProStruct Engineering** using Node.js, Docker, and async queuing  
+- 🧠 Authored **4 research papers** in RecSys and Deep Learning  
+- 💡 Keen on architecting systems using **Django**, **FastAPI**, and **Microservices**  
+- 📫 Reach me at: **chiraggoel246@gmail.com** | [LinkedIn](https://linkedin.com/in/goelchirag138)  
 
-- 📫 How to reach me **chiragfullstack.iiitr@gmail.com**
+---
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-goel-9138b2228) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ChiragG60475098) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/chiraggoel4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/goelchirag138)
+### 🛠️ Tech Stack
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHIRAG137&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+#### 💻 Languages
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
+
+#### 🧠 AI & ML
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-013243.svg?style=flat&logo=numpy&logoColor=white)
+
+#### 🔧 Backend & DevOps
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+**🔐 AaaS Labs** | `Node.js`, `Django`, `Nmap`, `Docker`, `AI`  
+- Developed real-time vulnerability scanning system with parallel scans and auto-remediation AI  
+- Used Gobuster, WPScan, SQLMap, and GitHub API for deep scanning  
+- Deployed with microservices and canary releases; won **SANS AI Hackathon 2025**
+
+**📲 MiHostel** | `Flutter`, `MongoDB`, `ML`, `Python`  
+- End-to-end hostel booking system with ML-based allocation & secure payments  
+- Used MVVM architecture and GetX for scalable and reactive UI
+
+---
+
+### 📚 Research Publications
+
+1. **Goel, C.**, & Sinha, B. B. (2023).  
+   *Cross-Domain Collaborative Filtering: A Graph Neural Network Approach for Accurate and Diverse Recommendations*  
+   _2nd International Conference on Data Science, Agents and Artificial Intelligence (ICDSAAI), 2023_
+
+2. **Goel, C.**, & Sinha, B. B. (2023).  
+   *Cross-Domain Collaborative Filtering: A Deep Neural Network Approach for Accurate and Diverse Recommendations*  
+   _Proceedings of the International Conference on Machine Learning and Data Engineering (ICMLDE), 2023_
+
+3. **Goel, C.**, & Sinha, B. B. (2023).  
+   *Rethinking and Unravelling the Complexity of Breast Cancer: An Integrative Approach to Detection and Diagnosis*  
+   _8th International Conference on Computing in Engineering and Technology (ICCET), 2023_
+
+---
+
+### 🏆 Achievements
+
+- 👨‍🎓 **Amazon ML Summer School Mentee** – Top 0.1% among 17,000+ applicants  
+- 🥈 **2nd Place** @ Healthathon Datathon 2022 – 150+ datasets scraped & engineered  
+
+---
+
+### 🤝 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/goelchirag138">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/CHIRAG137">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Chiraag_">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+> 💬 _“Engineering is not only about coding but solving meaningful problems with elegance and impact.”_
