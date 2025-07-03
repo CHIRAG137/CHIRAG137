@@ -1,12 +1,6 @@
 <h1 align="center">Hey 👋 I'm <strong>Chirag Goel</strong></h1>
 <h3 align="center">🚀 Data Scientist | ML Researcher | Backend | Building Scalable AI Products</h3>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=CHIRAG137&icon=0&color=0" alt="visit count"/>
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
