@@ -1,14 +1,13 @@
 <h1 align="center">Hey 👋 I'm <strong>Chirag Goel</strong></h1>
-<h3 align="center">🚀 Data Scientist | ML Researcher | Backend | Building Scalable AI Products</h3>
+<h3 align="center">🚀 ML Researcher | Backend | Building Scalable AI Products</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 🔬 Passionate about solving real-world problems with **Machine Learning**, **Graph Neural Networks**, and **Backend Engineering**  
-- 🔧 Currently building scalable tools at **ProStruct Engineering** using Node.js, Docker, and async queuing  
-- 🧠 Authored **4 research papers** in RecSys and Deep Learning  
-- 💡 Keen on architecting systems using **Django**, **FastAPI**, and **Microservices**  
+- 🔧 Currently breakin' systems at JioHotstar  
+- 🧠 Authored **research papers** in Recommendations Engine 
 - 📫 Reach me at: **chiraggoel246@gmail.com** | [LinkedIn](https://linkedin.com/in/goelchirag138)  
 
 ---
@@ -38,19 +37,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-**🔐 AaaS Labs** | `Node.js`, `Django`, `Nmap`, `Docker`, `AI`  
-- Developed real-time vulnerability scanning system with parallel scans and auto-remediation AI  
-- Used Gobuster, WPScan, SQLMap, and GitHub API for deep scanning  
-- Deployed with microservices and canary releases; won **SANS AI Hackathon 2025**
-
-**📲 MiHostel** | `Flutter`, `MongoDB`, `ML`, `Python`  
-- End-to-end hostel booking system with ML-based allocation & secure payments  
-- Used MVVM architecture and GetX for scalable and reactive UI
 
 ---
 
